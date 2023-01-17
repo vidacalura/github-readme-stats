@@ -556,4 +556,4 @@ Thanks! :heart:
 
 Contributions are welcome! &lt;3
 
-Made with :heart: and JavaScript.
+Made with :heart: and JavaScript
